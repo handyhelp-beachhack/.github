@@ -13,7 +13,7 @@ Brief:
 
 <h2>Completed </h2>
 
-![image](https://user-images.githubusercontent.com/60638195/168411685-ded53b95-f431-4385-88c2-024cd11e2a74.png =100x100)
+![image](https://user-images.githubusercontent.com/60638195/168411685-ded53b95-f431-4385-88c2-024cd11e2a74.png =250x250)
 
 
 
