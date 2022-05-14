@@ -12,7 +12,6 @@ Brief:
 
 
 <h2>Completed </h2>
-![tick](https://user-images.githubusercontent.com/60638195/168411466-c61873f6-1b22-4246-99ad-e22bb5419b40.png)
 ![image](https://user-images.githubusercontent.com/60638195/168411491-b7aca348-a6d3-4240-a10e-ae6e05cb6311.png)
 
 
