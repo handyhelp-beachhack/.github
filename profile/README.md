@@ -4,8 +4,8 @@
 Brief:
   * 3 shake warning
   * Sign language -teaching lessons,evaluation ,assessment
-  * speech to text (with name detection)
-  * text to speech /sign to speech
+  * speech recognition (with name detection)
+  * speech generation from text and sign 
   * mental/physical activity
   * community creation
   * job portal
